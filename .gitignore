@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 .env
-
+*.tar
+*.json
+trabajo_grupal/**/Yelp JSON/*.tar
+trabajo_grupal/**/Yelp JSON/*.json
